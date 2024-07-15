@@ -1,0 +1,7 @@
+path: '/content/drive/MyDrive/intel_project/model_1/data'
+train: images/train
+val: images/val
+test: images/test
+
+nc: 04
+names: ['petient','doctor','nurse','relatives']

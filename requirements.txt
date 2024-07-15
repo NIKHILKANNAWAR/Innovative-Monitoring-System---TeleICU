@@ -1,0 +1,8 @@
+flask 
+flask-socketio
+gevent 
+gevent-websocket 
+pyngrok 
+ultralytics 
+opencv-python-headless 
+mediapipe
